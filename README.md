@@ -1,7 +1,7 @@
 # machine_learning
 
 ## Objetivo
-Notebooks desenvolvidos durante a Disciplina Tópicos Avançados em Informática.
+Notebooks desenvolvidos durante a disciplina de Tópicos Avançados em Informática - ECT/UFRN.
 
 ## Tecnologias
 - Notebooks Jupyter
